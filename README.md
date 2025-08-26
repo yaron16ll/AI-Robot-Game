@@ -10,5 +10,11 @@ Characters are assigned random personalities (e.g., aggressive or cautious) whic
 The combat system includes bullet shooting and grenade throwing (without friendly fire).  
 
 Navigation within the maze is handled by the **A*** **pathfinding algorithm**, which adapts to a **dynamic safety map** that changes during battles.  
+
+## Top Down View
+![Uploading צילום מסך 2025-08-26 161813.png…]()
+
+
+א
 ## Demo Video
 [Watch Video](https://drive.google.com/file/d/1elboNYjhBmRCh4iJN6ciqsgSBRRw9t2S/view?usp=drive_link)
