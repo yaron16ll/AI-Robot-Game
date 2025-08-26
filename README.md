@@ -12,7 +12,7 @@ The combat system includes bullet shooting and grenade throwing (without friendl
 Navigation within the maze is handled by the **A*** **pathfinding algorithm**, which adapts to a **dynamic safety map** that changes during battles.  
 
 ## Top Down View
-![Uploading צילום מסך 2025-08-26 161813.png…]()
+![]()
 
 
 א
