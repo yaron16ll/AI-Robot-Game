@@ -15,7 +15,10 @@ Navigation within the maze is handled by the **A*** **pathfinding algorithm**, w
 
 ## Demo Video 
 **Top Down View** 
-[Watch Video](https://github.com/yaron16ll/AI-Robot-Game/releases/download/top/Up.mp4)
+<video src="https://github.com/yaron16ll/AI-Robot-Game/releases/download/top/Up.mp4" 
+       controls 
+       width="600">
+</video>
 
 
 **Regular View**
