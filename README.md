@@ -13,6 +13,7 @@ The combat system includes bullet shooting and grenade throwing (without friendl
 Navigation within the maze is handled by the **A*** **pathfinding algorithm**, which adapts to a **dynamic safety map** that changes during battles.
 
 The project was developed using **Unity 6**.
+
 ![Image](https://github.com/user-attachments/assets/9148a0fd-45b6-4a97-b001-c940e5e8dbd8)
 
 
