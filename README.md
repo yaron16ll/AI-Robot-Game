@@ -13,11 +13,6 @@ Navigation within the maze is handled by the **A*** **pathfinding algorithm**, w
 
 The project was developed using **Unity 6**.
 
-![Image](https://github.com/user-attachments/assets/9148a0fd-45b6-4a97-b001-c940e5e8dbd8)
 
 ## Demo Video 
-**Top Down View** 
-[Watch Video](https://github.com/yaron16ll/AI-Robot-Game/releases/download/top/Up.mp4)
-
-**Regular View**
-[Watch Video](https://github.com/yaron16ll/AI-Robot-Game/releases/download/top/Down.mp4)
+![Image](https://github.com/user-attachments/assets/9148a0fd-45b6-4a97-b001-c940e5e8dbd8)
