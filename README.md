@@ -1,11 +1,4 @@
 
-
-https://github.com/user-attachments/assets/8cf2ee6d-44ab-4393-8aaa-df18192ab786
-
-
-
-
-
 ## Description
 The project demonstrates **intelligent behavior (AI)** of computer-controlled characters within a maze environment containing rooms, corridors, ammo depots, health packs, and obstacles used as cover.
 
